@@ -18,7 +18,7 @@
 
 ## About
 
-This package depends on [fuzzyset](https://www.npmjs.com/package/fuzzyset.js) to find mistakes in commonly used email addresses. It is used on the onboarding flow of [Varsity Vibe](https://varsityvibe.co.za/).
+This package depends on [fuzzyset](https://www.npmjs.com/package/fuzzyset.js) to find mistakes in commonly used email addresses. It is used on the onboarding flow of [Varsity Vibe](https://varsityvibe.co.za/) web app.
 
 ## Install
 
